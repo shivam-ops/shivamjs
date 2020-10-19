@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Shivam Joshi",
-    "occupation": "ReactJS Developer",
+    "occupation": "Frontend Developer",
     "description": "currently employed by All Seasons Holidays where I work as a Website Manager.",
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Shivam, I'm a ReactJS Developer. Currently I'm working at All Seasons Holidays ",
@@ -15,17 +15,17 @@
       "zip": "263139"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/123QsSUUuw4LobYoVM6AyXymNFVMIsFHd/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/shivamjoshijs/",
         "className": "fa fa-linkedin"
       },
 
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/shivam-ops",
         "className": "fa fa-github"
       }
     ]
@@ -45,7 +45,7 @@
         "company": "All Seasons Holidays",
         "title": "Team Member && Website Manager",
         "years": "August 2017 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Evaluatig and managing website performance. "
       }
     ],
     "skills": [
