@@ -82,46 +82,36 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React, Context API, FireBase",
+        "image": "amazon-clone.jpeg",
+        "url": "https://clone-861db.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "PictureGram",
+        "category": "PictureGram built with React and Firebase",
+        "image": "picturegram.jpeg",
+        "url": "https://shivam-ops.github.io/picturegram/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Face Detecting App",
+        "category": "Face Detecting App built with React, Postresql, Node, Heroku",
+        "image": "face-detect.jpeg",
+        "url": "https://smart-brain-face-detecting-app.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Todo Managment App",
+        "category": "Todo Management App building with Bootstrap, React, Spring Boot",
+        "image": "comingsoon.jpg",
+        "url": ""
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "user": "Eleanor Roosevelt"
       }
     ]
   }
