@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Shivam Joshi",
+    "occupation": "Frontend Developer",
+    "description": "currently employed by All Seasons Holidays where I work as a Website Manager.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Shivam, I'm a ReactJS Developer. Currently I'm working at All Seasons Holidays ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shivamjoshi0822@gmail.com",
+    "phone": "+917017680214",
+    "address": {
+      "street": "Nawabi Road",
+      "city": "Haldwani",
+      "state": "Uttarakhand, India",
+      "zip": "263139"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/123QsSUUuw4LobYoVM6AyXymNFVMIsFHd/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivamjoshijs/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/shivam-ops",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love learning new technologies. These technologies have won me over, over time and I really love playing with them...",
+    "education": [
+      {
+        "school": "University of Kumaon",
+        "degree": "Bachelor in Science",
+        "graduated": "July 2017",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "All Seasons Holidays",
+        "title": "Team Member && Website Manager",
+        "years": "August 2017 - Present",
+        "description": "Evaluatig and managing website performance. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React, Context API, FireBase",
+        "image": "amazon-clone.jpeg",
+        "url": "https://clone-861db.web.app/"
+      },
+      {
+        "title": "PictureGram",
+        "category": "PictureGram built with React and Firebase",
+        "image": "picturegram.jpeg",
+        "url": "https://shivam-ops.github.io/picturegram/"
+      },
+      {
+        "title": "Face Detecting App",
+        "category": "Face Detecting App built with React, Postresql, Node, Heroku",
+        "image": "face-detect.jpeg",
+        "url": "https://smart-brain-face-detecting-app.herokuapp.com/"
+      },
+      {
+        "title": "Todo Managment App",
+        "category": "Todo Management App building with Bootstrap, React, Spring Boot",
+        "image": "comingsoon.jpg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "The future belongs to those who believe in the beauty of their dreams.",
+        "user": "Eleanor Roosevelt"
+      }
+    ]
+  }
+}

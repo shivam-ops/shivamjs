@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivamjs/static/css/main.5facb584.chunk.css",
+    "main.js": "/shivamjs/static/js/main.35d010d7.chunk.js",
+    "main.js.map": "/shivamjs/static/js/main.35d010d7.chunk.js.map",
+    "runtime-main.js": "/shivamjs/static/js/runtime-main.bd8d10d4.js",
+    "runtime-main.js.map": "/shivamjs/static/js/runtime-main.bd8d10d4.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/shivamjs/static/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/shivamjs/static/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/shivamjs/index.html",
+    "precache-manifest.f6134d2cd792e09428c09db4943b06ec.js": "/shivamjs/precache-manifest.f6134d2cd792e09428c09db4943b06ec.js",
+    "service-worker.js": "/shivamjs/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/shivamjs/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/shivamjs/static/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd8d10d4.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.35d010d7.chunk.js"
+  ]
+}
