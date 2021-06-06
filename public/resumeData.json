@@ -4,7 +4,7 @@
     "occupation": "Frontend Developer",
     "description": "currently employed by All Seasons Holidays where I work as a Website Manager.",
     "image": "IG_Sonny.jpeg",
-    "bio": "Hello, My name is Shivam, I'm a ReactJS Developer. Currently I'm working at All Seasons Holidays ",
+    "bio": "Hello, my name is Shivam, I'm a ReactJS Developer. Currently I'm working at All Seasons Holidays ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "shivamjoshiva@gmail.com",
     "phone": "+917017680214",
@@ -14,7 +14,7 @@
       "state": "Uttarakhand, India",
       "zip": "263139"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "#",
     "resumedownload": "https://drive.google.com/file/d/1QgscBOJMh4y8JQRnke7VtduPxlXpr-f4/view?usp=sharing",
     "social": [
       {
@@ -82,7 +82,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone",
+        "title": "Ecommerce Marketplae",
         "category": "Amazon Clone built with React, Context API, FireBase",
         "image": "amazon-clone.jpeg",
         "url": "https://clone-861db.web.app/"
